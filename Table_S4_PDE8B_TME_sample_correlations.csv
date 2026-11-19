@@ -1,0 +1,181 @@
+ModuleLevel,PDE8BMetric,PDE8BMetricLabel,Module,rho,P,N_samples,FDR
+primary_celltype,PDE8B_all_mean,All cells mean,Cytotoxic,-0.145951868956681,0.603744496188274,15,1
+primary_celltype,PDE8B_all_mean,All cells mean,T-cell exhaustion,0.167574368061374,0.550537668691264,15,1
+primary_celltype,PDE8B_all_mean,All cells mean,Checkpoint,-0.214423116121543,0.442841565462845,15,0.996393522291401
+primary_celltype,PDE8B_all_mean,All cells mean,Treg,0.061263747463298,0.828292933448027,15,1
+primary_celltype,PDE8B_all_mean,All cells mean,Myeloid inflammation,0.0719658369153338,0.783718123156348,17,1
+primary_celltype,PDE8B_all_mean,All cells mean,M2 macrophage,0.131523770914231,0.614840737059364,17,1
+primary_celltype,PDE8B_all_mean,All cells mean,CAF/ECM,-0.327568636993933,0.199320107555071,17,0.815400439998017
+primary_celltype,PDE8B_all_mean,All cells mean,Angiogenesis,-0.268686645311939,0.314306159112133,16,0.878541991002852
+primary_celltype,PDE8B_all_mean,All cells mean,EMT/stress,0.364219674756185,0.165474705177607,16,0.797632895057506
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,Cytotoxic,-0.00540562477617335,0.98474575453114,15,1
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,T-cell exhaustion,0.0414431232839957,0.883411937368286,15,1
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,Checkpoint,-0.311724362092663,0.25803966897412,15,0.84203176580909
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,Treg,0.00360374985078224,0.989830200358192,15,1
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,Myeloid inflammation,0.126560609747656,0.628364692871002,17,1
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,M2 macrophage,0.250639638912025,0.331893641045522,17,0.878541991002852
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,CAF/ECM,-0.129042190330943,0.621588401736189,17,1
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,Angiogenesis,-0.343321824565256,0.192953271310172,16,0.815400439998017
+primary_celltype,PDE8B_all_pos_fraction,All cells % positive,EMT/stress,0.391088339287378,0.134166726877367,16,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,Cytotoxic,-0.0154950327013326,0.956291142899859,15,1
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,T-cell exhaustion,0.377691422094982,0.165153732699457,15,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,Checkpoint,0.253731160484321,0.361503415433579,15,0.909582383271856
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,Treg,0,1,15,1
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,Myeloid inflammation,0.411609776065606,0.100680992095011,17,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,M2 macrophage,0.450026688498396,0.0698954396932163,17,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,CAF/ECM,-0.201688790272147,0.437588680030023,17,0.996393522291401
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,Angiogenesis,-0.0755382844189963,0.789038451873826,15,1
+primary_celltype,Fibroblast_PDE8B_mean,Fibroblast mean,EMT/stress,0.314307593414678,0.235783563457493,16,0.84203176580909
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Cytotoxic,0.0348638235779983,0.901830665482554,15,1
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,T-cell exhaustion,0.284721225886986,0.303693753131701,15,0.878541991002852
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Checkpoint,0.199498546029657,0.47594516685404,15,1
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Treg,0.0232425490519989,0.934472766468798,15,1
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Myeloid inflammation,0.482955470583645,0.0495608145656907,17,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,M2 macrophage,0.50216392680004,0.0399647616023734,17,0.797632895057506
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,CAF/ECM,-0.141319356449192,0.58849361754383,17,1
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Angiogenesis,-0.0639170098929969,0.820965177060139,15,1
+primary_celltype,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,EMT/stress,0.327826199583052,0.2151438024633,16,0.84186705311726
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,Cytotoxic,-0.0618589574131742,0.826647923131203,15,1
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,T-cell exhaustion,0.371153744479045,0.173192762202196,15,0.797632895057506
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,Checkpoint,-0.185576872239523,0.507860722329454,15,1
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,Treg,0.309294787065871,0.261965438251717,15,0.84203176580909
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,Myeloid inflammation,0,1,15,1
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,M2 macrophage,0.247435829652697,0.373939424233985,15,0.909582383271856
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,CAF/ECM,-0.185576872239523,0.507860722329454,15,1
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,Angiogenesis,0.0840168050416806,0.757052724320426,16,1
+primary_celltype,Endothelial_PDE8B_mean,Endothelial mean,EMT/stress,0.0344010458076891,0.907058711263083,14,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Cytotoxic,-0.0618589574131742,0.826647923131203,15,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,T-cell exhaustion,0.371153744479045,0.173192762202196,15,0.797632895057506
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Checkpoint,-0.185576872239523,0.507860722329454,15,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Treg,0.309294787065871,0.261965438251717,15,0.84203176580909
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Myeloid inflammation,0,1,15,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,M2 macrophage,0.247435829652697,0.373939424233985,15,0.909582383271856
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,CAF/ECM,-0.185576872239523,0.507860722329454,15,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Angiogenesis,0.0840168050416806,0.757052724320426,16,1
+primary_celltype,Endothelial_PDE8B_pos_fraction,Endothelial % positive,EMT/stress,0.0344010458076891,0.907058711263083,14,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,Cytotoxic,-0.190104708120484,0.515067626819139,14,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,T-cell exhaustion,-0.44357765228113,0.112122393661941,14,0.797632895057506
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,Checkpoint,-0.800317351470186,0.000586235914231876,14,0.0263806161404344
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,Treg,-0.0164288019363381,0.955546719253871,14,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,Myeloid inflammation,-0.0157080550196074,0.953957012238875,16,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,M2 macrophage,-0.0408409430509792,0.880627701774025,16,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,CAF/ECM,-0.230908408788229,0.389554234945104,16,0.922628451185773
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,Angiogenesis,-0.185410764710102,0.525686916083267,14,1
+primary_celltype,Epithelial_PDE8B_mean,Epithelial mean,EMT/stress,0.317302711396069,0.231107312227389,16,0.84203176580909
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Cytotoxic,-0.283983576328131,0.325134907575661,14,0.878541991002852
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,T-cell exhaustion,-0.434189765460365,0.12084149905957,14,0.797632895057506
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Checkpoint,-0.851950728984392,0.000109649228446581,14,0.00986843056019233
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Treg,-0.0586742926297791,0.842074451403495,14,1
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Myeloid inflammation,-0.0471241650588222,0.862414608533208,16,1
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,M2 macrophage,-0.0408409430509792,0.880627701774025,16,1
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,CAF/ECM,-0.164934577705878,0.541579614959643,16,1
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Angiogenesis,-0.129083443785514,0.660079408994269,14,1
+primary_celltype,Epithelial_PDE8B_pos_fraction,Epithelial % positive,EMT/stress,0.355002043443127,0.177251754457224,16,0.797632895057506
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,Cytotoxic,0.163384434417119,0.56068733372945,15,1
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,T-cell exhaustion,0.400802440679495,0.138728957929911,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,Checkpoint,0.0536105175431172,0.849501356142498,15,1
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,Treg,0.388038031740658,0.152942481330903,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,Myeloid inflammation,0.0865962683543638,0.741044119668232,17,1
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,M2 macrophage,0.256103857473544,0.321104743065259,17,0.878541991002852
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,CAF/ECM,-0.0829113207648164,0.751730494039072,17,1
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,Angiogenesis,0.523340766492335,0.0452840068984833,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_mean,Myeloid mean,EMT/stress,-0.0690322423508832,0.799470614302885,16,1
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Cytotoxic,0.127644089388374,0.650305682141986,15,1
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,T-cell exhaustion,0.43654278570824,0.103760676508133,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Checkpoint,0.00255288178776749,0.992795669701838,15,1
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Treg,0.413566849618333,0.125437047876481,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Myeloid inflammation,0.0865962683543638,0.741044119668232,17,1
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,M2 macrophage,0.278213543010828,0.279582352141328,17,0.867669368714465
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,CAF/ECM,-0.116075849070743,0.657300301078437,17,1
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Angiogenesis,0.48760042146359,0.0652225438458692,15,0.797632895057506
+primary_celltype,Myeloid_PDE8B_pos_fraction,Myeloid % positive,EMT/stress,-0.043145151469302,0.873941539809908,16,1
+all_cells,PDE8B_all_mean,All cells mean,Cytotoxic,-0.227048388873115,0.364912957348028,18,0.907485632380376
+all_cells,PDE8B_all_mean,All cells mean,T-cell exhaustion,-0.0283810486091394,0.910991555219874,18,0.98775144098219
+all_cells,PDE8B_all_mean,All cells mean,Checkpoint,-0.391027780837032,0.108595291159413,18,0.907485632380376
+all_cells,PDE8B_all_mean,All cells mean,Treg,-0.337419133464213,0.170894484686296,18,0.907485632380376
+all_cells,PDE8B_all_mean,All cells mean,Myeloid inflammation,-0.0336367983515727,0.894588612608783,18,0.98775144098219
+all_cells,PDE8B_all_mean,All cells mean,M2 macrophage,0.195513890418516,0.436867622126654,18,0.907485632380376
+all_cells,PDE8B_all_mean,All cells mean,CAF/ECM,0.46986402697353,0.0491244577305649,18,0.907485632380376
+all_cells,PDE8B_all_mean,All cells mean,Angiogenesis,-0.0462505977334124,0.855399030496432,18,0.98775144098219
+all_cells,PDE8B_all_mean,All cells mean,EMT/stress,0.182900091036676,0.467572931885245,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,Cytotoxic,-0.222843789079169,0.374098054960733,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,T-cell exhaustion,-0.0346879483000593,0.891312695030509,18,0.98775144098219
+all_cells,PDE8B_all_pos_fraction,All cells % positive,Checkpoint,-0.361595582279406,0.140370056464365,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,Treg,-0.293270835627774,0.237558361295625,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,Myeloid inflammation,0.0735804963940652,0.771695866172098,18,0.98775144098219
+all_cells,PDE8B_all_pos_fraction,All cells % positive,M2 macrophage,0.3069357849581,0.215380533626319,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,CAF/ECM,0.551853722955489,0.0175775619795614,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,Angiogenesis,-0.134547193406291,0.594528549867643,18,0.907485632380376
+all_cells,PDE8B_all_pos_fraction,All cells % positive,EMT/stress,0.264889787018635,0.288110891784005,18,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,Cytotoxic,-0.0164643910426243,0.949991547024498,17,0.988375417032785
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,T-cell exhaustion,0.242849767878708,0.347631908059128,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,Checkpoint,-0.300475136527893,0.241256434976728,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,Treg,-0.0960422810819748,0.713858294333293,17,0.973443128636309
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,Myeloid inflammation,0.0576253686491849,0.826120765271059,17,0.98775144098219
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,M2 macrophage,0.264802289268873,0.30435953092387,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,CAF/ECM,0.470607177301677,0.0565827979049462,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,Angiogenesis,0.21266505096723,0.41250743771928,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_mean,Fibroblast mean,EMT/stress,0.411609776065606,0.100680992095011,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Cytotoxic,-0.00274406517377071,0.991660497951297,17,0.991660497951297
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,T-cell exhaustion,0.262058224095103,0.30958494037315,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Checkpoint,-0.259314158921332,0.31486306472867,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Treg,-0.0356728472590192,0.891883000049231,17,0.98775144098219
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Myeloid inflammation,0.109762606950828,0.674951384024849,17,0.934548070188252
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,M2 macrophage,0.275778549963956,0.283986854430807,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,CAF/ECM,0.44591059073774,0.0728125049058258,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,Angiogenesis,0.17424813853444,0.503580988322474,17,0.907485632380376
+all_cells,Fibroblast_PDE8B_pos_fraction,Fibroblast % positive,EMT/stress,0.403377580544294,0.108366942539456,17,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,Cytotoxic,-0.252050415125042,0.346322397267912,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,T-cell exhaustion,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,Checkpoint,-0.364072821847283,0.165658125291233,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,Treg,-0.364072821847283,0.165658125291233,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,Myeloid inflammation,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,M2 macrophage,0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,CAF/ECM,0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,Angiogenesis,0.308061618486162,0.245725166221649,16,0.907485632380376
+all_cells,Endothelial_PDE8B_mean,Endothelial mean,EMT/stress,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Cytotoxic,-0.252050415125042,0.346322397267912,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,T-cell exhaustion,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Checkpoint,-0.364072821847283,0.165658125291233,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Treg,-0.364072821847283,0.165658125291233,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Myeloid inflammation,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,M2 macrophage,0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,CAF/ECM,0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,Angiogenesis,0.308061618486162,0.245725166221649,16,0.907485632380376
+all_cells,Endothelial_PDE8B_pos_fraction,Endothelial % positive,EMT/stress,-0.140028008402801,0.604990421586917,16,0.907485632380376
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,Cytotoxic,-0.16964699421176,0.529924137274357,16,0.907485632380376
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,T-cell exhaustion,-0.0848234971058799,0.754786380180329,16,0.98775144098219
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,Checkpoint,-0.326727544407834,0.216776494046442,16,0.907485632380376
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,Treg,-0.179071827223524,0.506959066465107,16,0.907485632380376
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,Myeloid inflammation,0.0314161100392148,0.908050169014712,16,0.98775144098219
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,M2 macrophage,0.0675446365843118,0.803712537936598,16,0.98775144098219
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,CAF/ECM,0.204204715254896,0.448086794920793,16,0.907485632380376
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,Angiogenesis,-0.04241174855294,0.876068821403307,16,0.98775144098219
+all_cells,Epithelial_PDE8B_mean,Epithelial mean,EMT/stress,0.161792966701956,0.549412457530971,16,0.907485632380376
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Cytotoxic,-0.116239607145095,0.668141281991008,16,0.934548070188252
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,T-cell exhaustion,-0.0534073870666651,0.844266255617171,16,0.98775144098219
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Checkpoint,-0.263895324329404,0.323343769052881,16,0.907485632380376
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Treg,-0.122522829152938,0.651235856780121,16,0.934548070188252
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Myeloid inflammation,0.0408409430509792,0.880627701774025,16,0.98775144098219
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,M2 macrophage,0.0801110805999977,0.768051541833251,16,0.98775144098219
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,CAF/ECM,0.201063104250975,0.455250764817712,16,0.907485632380376
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,Angiogenesis,-0.0235620825294111,0.930978091086672,16,0.98775144098219
+all_cells,Epithelial_PDE8B_pos_fraction,Epithelial % positive,EMT/stress,0.14922652268627,0.581228845531777,16,0.907485632380376
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,Cytotoxic,-0.121603270455064,0.641985285317295,17,0.934548070188252
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,T-cell exhaustion,-0.167665115324406,0.520079263451669,17,0.907485632380376
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,Checkpoint,-0.466145870077745,0.0592935996083609,17,0.907485632380376
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,Treg,-0.263473752652639,0.306882818846017,17,0.907485632380376
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,Myeloid inflammation,0.0386919496902476,0.882789667987524,17,0.98775144098219
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,M2 macrophage,0.00552742138432109,0.983202424218937,17,0.991660497951297
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,CAF/ECM,-0.0221096855372844,0.932876360927624,17,0.98775144098219
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,Angiogenesis,-0.110548427686422,0.672745347446411,17,0.934548070188252
+all_cells,Myeloid_PDE8B_mean,Myeloid mean,EMT/stress,-0.230309224346712,0.373841702167644,17,0.907485632380376
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Cytotoxic,-0.140028008402801,0.591940073670517,17,0.907485632380376
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,T-cell exhaustion,-0.160295220145312,0.53884039374598,17,0.907485632380376
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Checkpoint,-0.48825555561503,0.0467563169526017,17,0.907485632380376
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Treg,-0.307693123727207,0.229580926646955,17,0.907485632380376
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Myeloid inflammation,0.0128973165634159,0.9608171848246,17,0.988375417032785
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,M2 macrophage,0.0350070021007002,0.893890234749896,17,0.98775144098219
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,CAF/ECM,0.0110548427686422,0.966411518876501,17,0.988375417032785
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,Angiogenesis,-0.0257946331268318,0.921719014055737,17,0.98775144098219
+all_cells,Myeloid_PDE8B_pos_fraction,Myeloid % positive,EMT/stress,-0.215569433988523,0.406001270688121,17,0.907485632380376

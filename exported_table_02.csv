@@ -1,0 +1,41 @@
+﻿ID,Description,BgRatio,PValue,FDR,Ontology
+GO:0019838,growth factor binding,135/18496,2.83E-05,0.004051932,MF
+GO:0001527,microfibril,13/19886,0.000533497,0.054416739,CC
+GO:0005201,extracellular matrix structural constituent,166/18496,0.000967973,0.06921007,MF
+GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,104/18870,0.000178296,0.072778254,BP
+GO:0030513,positive regulation of BMP signaling pathway,42/18870,0.000198214,0.072778254,BP
+GO:0048568,embryonic organ development,453/18870,0.000203861,0.072778254,BP
+GO:0005581,collagen trimer,86/19886,0.001565,0.079814976,CC
+GO:0009897,external side of plasma membrane,387/19886,0.003628128,0.123356339,CC
+GO:0055123,digestive system development,146/18870,0.000647986,0.157490857,BP
+GO:0033189,response to vitamin A,15/18870,0.000735251,0.157490857,BP
+GO:0042613,MHC class II protein complex,17/19886,2.86E-10,2.63E-08,CC
+GO:0042379,chemokine receptor binding,74/18496,4.18E-10,4.72E-08,MF
+GO:0008009,chemokine activity,49/18496,1.65E-09,9.30E-08,MF
+GO:0042611,MHC protein complex,25/19886,2.42E-09,1.11E-07,CC
+GO:0002399,MHC class II protein complex assembly,16/18870,2.63E-10,1.45E-07,BP
+GO:0002503,peptide antigen assembly with MHC class II protein complex,16/18870,2.63E-10,1.45E-07,BP
+GO:0006959,humoral immune response,258/18870,4.02E-10,1.48E-07,BP
+GO:0023026,MHC class II protein complex binding,27/18496,4.68E-09,1.63E-07,MF
+GO:0032395,MHC class II receptor activity,10/18496,5.79E-09,1.63E-07,MF
+GO:0098553,lumenal side of endoplasmic reticulum membrane,29/19886,5.38E-09,1.65E-07,CC
+hsa04151,PI3K-Akt signaling pathway,354/8092,0.003326286,0.259450322,KEGG
+hsa04010,MAPK signaling pathway,294/8092,0.0102103,0.270032909,KEGG
+hsa04934,Cushing syndrome,155/8092,0.01038588,0.270032909,KEGG
+hsa04927,Cortisol synthesis and secretion,65/8092,0.01564979,0.28796899,KEGG
+hsa05412,Arrhythmogenic right ventricular cardiomyopathy,77/8092,0.02154535,0.28796899,KEGG
+hsa04512,ECM-receptor interaction,88/8092,0.02763633,0.28796899,KEGG
+hsa05032,Morphine addiction,91/8092,0.02940541,0.28796899,KEGG
+hsa04014,Ras signaling pathway,232/8092,0.03020393,0.28796899,KEGG
+hsa04640,Hematopoietic cell lineage,99/8092,0.03433863,0.28796899,KEGG
+hsa04974,Protein digestion and absorption,103/8092,0.0369191,0.28796899,KEGG
+hsa05310,Asthma,31/8092,8.45E-10,3.42E-08,KEGG
+hsa05150,Staphylococcus aureus infection,96/8092,1.02E-09,3.42E-08,KEGG
+hsa05330,Allograft rejection,38/8092,3.12E-09,6.96E-08,KEGG
+hsa05332,Graft-versus-host disease,42/8092,5.86E-09,9.11E-08,KEGG
+hsa04940,Type I diabetes mellitus,43/8092,6.80E-09,9.11E-08,KEGG
+hsa05320,Autoimmune thyroid disease,53/8092,2.50E-08,2.79E-07,KEGG
+hsa05164,Influenza A,172/8092,1.04E-07,9.94E-07,KEGG
+hsa04514,Cell adhesion molecules,149/8092,6.93E-07,5.04E-06,KEGG
+hsa04672,Intestinal immune network for IgA production,49/8092,7.03E-07,5.04E-06,KEGG
+hsa05323,Rheumatoid arthritis,93/8092,7.52E-07,5.04E-06,KEGG

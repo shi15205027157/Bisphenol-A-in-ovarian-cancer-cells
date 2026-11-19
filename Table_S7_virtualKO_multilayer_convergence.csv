@@ -1,0 +1,13 @@
+Layer,Feature,Score,ScoreScaled
+Virtual KO,Collagen/ECM,1.0948276875587,0.934652621827342
+Virtual KO,Contractile myCAF,0.876550651153272,0.748309869740068
+Virtual KO,TGF-β response,1.17137390083836,1
+Virtual KO,Inflammatory CAF,-0.291215613119632,-0.248610296773051
+Observed scRNA,Collagen/ECM,-0.071,-0.189839572192513
+Observed scRNA,Contractile myCAF,0.178,0.475935828877005
+Observed scRNA,TGF-β response,0.09,0.240641711229947
+Observed scRNA,Inflammatory CAF,-0.374,-1
+Spatial,Collagen/ECM,-0.008,-1
+Spatial,Contractile myCAF,,
+Spatial,TGF-β response,,
+Spatial,Inflammatory CAF,-0.004,-0.5
